@@ -1,12 +1,14 @@
 body {
     background-color: red;
-}
-
-div {
     color: white;
     font-size: 200px;
     text-align: center;
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
+}
+
+.container {
+    padding: 5% 0;
+}
+
+.text {
+    padding: 10% 0;
 }
